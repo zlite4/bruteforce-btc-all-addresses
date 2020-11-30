@@ -1,4 +1,4 @@
-# plutushybrid-2
+# all unspent and or relative bitcoin addresses.
 .pickle file which contains over 68 million btc addresses as of November,28,2020.
 All you need to do is start the program once you have met dependencies or modules that are needed.
 
