@@ -8,7 +8,7 @@ Everything you need can be downloaded here
 * .txt https://c.gmx.com/@603860403625132729/lvnyru0WQMqTPSsZz91qzA
 
 If your going to use this for a project please let me know so I can try out your program!
-Also need someone to point me out to a program I can use to build a database file from text file?
+
 
 
 ## Donate
