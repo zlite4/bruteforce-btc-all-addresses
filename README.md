@@ -1,6 +1,8 @@
 # all unspent and or relative bitcoin addresses.
 Your choice of .pickle and or text file which contains over 68 million btc addresses as of November,28,2020.
 
+You can use the text file with this program just include the file into project folder.
+
 
 Everything you need can be downloaded here
 * .pickle https://c.gmx.com/@695044858066246381/56xlXeJJQF-WDrI4eDvWyQ
