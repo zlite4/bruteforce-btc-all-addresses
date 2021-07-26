@@ -1,3 +1,5 @@
+# This repository is only intended to test Bitcoin security flaws and not to steal Bitcoin.
+
 # all unspent and or relative bitcoin addresses.
 Your choice of .pickle and or text file which contains over 68 million btc addresses as of November,28,2020.
 
